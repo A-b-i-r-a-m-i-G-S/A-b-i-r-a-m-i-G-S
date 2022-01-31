@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A-b-i-r-a-m-i-G-S
-- 👀 I’m interested in learning new stuff and facing new challenges
+- 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning c++ and javascript!!
 
 <!---
