@@ -7,7 +7,6 @@ You can find me here :
 
 <p align="left">
     <a href="https://www.linkedin.com/in/abirami-gurushanker-b549a725a/"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.codechef.com/users/abirami_gs"><img title="CodeChef Account" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
     <a href="https://leetcode.com/u/abirami_gs_25/"><img title="Leetcode Account" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
     <a href="mailto:gurushankerabirami@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
