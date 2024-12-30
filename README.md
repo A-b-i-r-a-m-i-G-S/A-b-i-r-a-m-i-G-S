@@ -18,6 +18,12 @@ Hi, I'm Abirami Gurushanker !!
 - 👨‍💻 My technical interests include Software Development and Data Science.
 - 👍 I also love collaborating with new people and enjoy working on new technologies. I do love a good challenge!
 
+## Companies I have worked at:
+- Hexaware Technologies
+- Menrva Technologies
+- IBM
+- Amazon (current)
+
 ## Languages and Tools:
 
 <h3 align="center"> Currently working on: </h3>
